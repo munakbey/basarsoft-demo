@@ -1,0 +1,62 @@
+com/app/demo/databinding/FragmentRegisterBinding.java
+ com.app.demo.databinding.FragmentRegisterBinding
+com/app/demo/databinding/FragmentMenuBindingImpl.java
+ com.app.demo.databinding.FragmentMenuBindingImpl
+com/app/demo/viewmodel/db/UserDAO_Impl.java
+ com.app.demo.viewmodel.db.UserDAO_Impl
+ com.app.demo.viewmodel.db.UserDAO_Impl$1
+ com.app.demo.viewmodel.db.UserDAO_Impl$2
+ com.app.demo.viewmodel.db.UserDAO_Impl$3
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/app/demo/databinding/FragmentRegisterBindingImpl.java
+ com.app.demo.databinding.FragmentRegisterBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/app/demo/databinding/FragmentFormBindingImpl.java
+ com.app.demo.databinding.FragmentFormBindingImpl
+com/app/demo/BuildConfig.java
+ com.app.demo.BuildConfig
+com/app/demo/BR.java
+ com.app.demo.BR
+com/app/demo/viewmodel/db/WorkDAO_Impl.java
+ com.app.demo.viewmodel.db.WorkDAO_Impl
+ com.app.demo.viewmodel.db.WorkDAO_Impl$1
+ com.app.demo.viewmodel.db.WorkDAO_Impl$2
+ com.app.demo.viewmodel.db.WorkDAO_Impl$3
+ com.app.demo.viewmodel.db.WorkDAO_Impl$4
+com/app/demo/databinding/ActivityMapsBinding.java
+ com.app.demo.databinding.ActivityMapsBinding
+com/app/demo/databinding/ListItemBinding.java
+ com.app.demo.databinding.ListItemBinding
+com/app/demo/databinding/ActivityMainBinding.java
+ com.app.demo.databinding.ActivityMainBinding
+com/app/demo/databinding/FragmentLoginBindingImpl.java
+ com.app.demo.databinding.FragmentLoginBindingImpl
+com/app/demo/databinding/ListItemBindingImpl.java
+ com.app.demo.databinding.ListItemBindingImpl
+com/app/demo/DataBinderMapperImpl.java
+ com.app.demo.DataBinderMapperImpl
+ com.app.demo.DataBinderMapperImpl$InnerBrLookup
+ com.app.demo.DataBinderMapperImpl$InnerLayoutIdLookup
+com/app/demo/databinding/ActivityMainBindingImpl.java
+ com.app.demo.databinding.ActivityMainBindingImpl
+com/app/demo/databinding/FragmentMenuBinding.java
+ com.app.demo.databinding.FragmentMenuBinding
+com/app/demo/databinding/ListGroupBindingImpl.java
+ com.app.demo.databinding.ListGroupBindingImpl
+com/app/demo/viewmodel/db/DBBasarsoft_Impl.java
+ com.app.demo.viewmodel.db.DBBasarsoft_Impl
+ com.app.demo.viewmodel.db.DBBasarsoft_Impl$1
+com/app/demo/databinding/FragmentFormBinding.java
+ com.app.demo.databinding.FragmentFormBinding
+com/app/demo/databinding/ListGroupBinding.java
+ com.app.demo.databinding.ListGroupBinding
+com/app/demo/databinding/ActivityMapsBindingImpl.java
+ com.app.demo.databinding.ActivityMapsBindingImpl
+com/app/demo/DataBindingTriggerClass.java
+ com.app.demo.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/app/demo/databinding/FragmentLoginBinding.java
+ com.app.demo.databinding.FragmentLoginBinding
