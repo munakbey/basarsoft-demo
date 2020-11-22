@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BasarsoftDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="form_input1">Is Emrinin Adi</string>
+    <string name="form_input2">Is Emrinin Aciklamasi</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+
+
+
+    <string name="info">Before Start Using</string>
+    <string name="info_detail">Please tap the location where you want to add a marker</string>
+    <string name="details">SHOW DETAILS</string>
+    <string name="go_to_location">GO TO THE LOCATION</string>
+
+
+</resources>
